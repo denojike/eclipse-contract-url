@@ -1,3 +1,2 @@
-
 //Eclipse contract code. Code bridges from EVM to Solana, mints token
 wget https://raw.githubusercontent.com/dxzenith/eclipse-testnet/main/eclipse.sh && chmod +x eclipse.sh && ./eclipse.sh
